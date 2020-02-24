@@ -1,0 +1,6 @@
+[2020-02-24 09:44:43] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2020-02-24 09:44:43] [IMessager.java] [1] [INFO] RESULT #1: TEST [carina-demo - testCompareModels] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582555481973/a997529d-056a-43fa-95fd-3d469ca5353e/test.log]
+[2020-02-24 09:44:43] [IMessager.java] [1] [INFO] RESULT #2: TEST [GSMA0001 - carina-demo - testModelSpecs] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582555481973/f35f7521-a08b-4816-9adb-d4a814ef67f1/test.log]
+[2020-02-24 09:44:43] [IMessager.java] [1] [INFO] RESULT #3: TEST [GSMA0002 - carina-demo - testModelSpecs [L0002]] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582555481973/be97fa8b-fb4e-41b9-9b70-8a645bc959ce/test.log]
+[2020-02-24 09:44:43] [IMessager.java] [1] [INFO] RESULT #4: TEST [GSMA0003 - carina-demo - testModelSpecs [L0003]] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582555481973/454f4923-b604-4434-bfec-b789e02edeb4/test.log]
+[2020-02-24 09:44:43] [IMessager.java] [1] [INFO] RESULT #5: TEST [carina-demo - testNewsSearch] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582555481973/1ab99037-20de-4db4-9c3c-0b8e31709c3a/test.log]

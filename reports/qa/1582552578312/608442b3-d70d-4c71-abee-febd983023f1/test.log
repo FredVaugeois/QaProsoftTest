@@ -1,0 +1,4 @@
+[2020-02-24 08:56:19] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2020-02-24 08:56:19] [IMessager.java] [1] [INFO] RESULT #1: TEST [carina-demo - testLoginUser] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582552578312/6d8d26a2-e77d-4322-be11-b24f204ec113/test.log]
+[2020-02-24 08:56:19] [IMessager.java] [1] [INFO] RESULT #2: TEST [carina-demo - testUIElements] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582552578312/b570c503-da49-42ac-a55e-83769e6b1ef4/test.log]
+[2020-02-24 08:56:19] [IMessager.java] [1] [INFO] RESULT #3: TEST [carina-demo - testWebView] FAIL [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582552578312/6e1057fb-8e79-48e0-b820-d2f71ab78dee/test.log]

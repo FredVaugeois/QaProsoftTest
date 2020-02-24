@@ -1,0 +1,10 @@
+[2020-02-24 09:49:10] [IMessager.java] [1] [INFO]  TEST [GSMA0002 - carina-demo - testModelSpecs [L0002]] STARTED at [09:49:10 2020-02-24]
+[2020-02-24 09:49:15] [DesktopFactory.java] [1] [INFO] Browser window was maximized
+[2020-02-24 09:49:15] [IMessager.java] [1] [INFO] INFO: url 'https://www.gsmarena.com' is being opened...
+[2020-02-24 09:49:18] [DriverListener.java] [1] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2020-02-24 09:49:40] [HomePage.java] [1] [INFO] selecting 'Samsung' brand...
+[2020-02-24 09:49:41] [HomePage.java] [1] [INFO] currentBrand: PHONE FINDER
+[2020-02-24 09:49:41] [HomePage.java] [1] [INFO] currentBrand: SAMSUNG
+[2020-02-24 09:49:43] [DriverListener.java] [1] [INFO] PASS: element 'SAMSUNG' is clicked.
+[2020-02-24 09:49:52] [DriverListener.java] [1] [INFO] PASS: element 'modelLink' is clicked.
+[2020-02-24 09:49:55] [IMessager.java] [1] [INFO]  TEST [GSMA0002 - carina-demo - testModelSpecs [L0002]] PASSED at [09:49:55 2020-02-24]

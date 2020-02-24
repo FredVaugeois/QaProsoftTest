@@ -1,0 +1,5 @@
+[2020-02-24 08:57:43] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2020-02-24 08:57:43] [IMessager.java] [1] [INFO] RESULT #1: TEST [carina-demo - testOpenPage] SKIP [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582552662622/e01afcdb-8f50-4038-9fc8-68bbae3a3a0e/test.log]
+[2020-02-24 08:57:43] [IMessager.java] [1] [INFO] RESULT #2: TEST [carina-demo - testOpenCompare] SKIP [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582552662622/b4547a45-da94-4b11-9ba3-fda46603cc3a/test.log]
+[2020-02-24 08:57:43] [IMessager.java] [1] [INFO] RESULT #3: TEST [carina-demo - testReadSpecs] SKIP [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582552662622/f1c926d7-d924-49ff-8c36-398edba15b00/test.log]
+[2020-02-24 08:57:43] [IMessager.java] [1] [INFO] RESULT #4: TEST [carina-demo - testCompareModels] SKIP [log=file:///home/fred/Desktop/QaProsoft/carina-demo/./reports/qa/1582552662622/f8208068-892a-4f9f-99f5-10b77ef4b9f4/test.log]
